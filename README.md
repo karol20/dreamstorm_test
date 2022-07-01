@@ -1,18 +1,18 @@
 # dreamstorm zadanie testowe
 
-Treœæ zadania:
+TreÅ›Ä‡ zadania:
 	
-Za pomoc¹ dowolnej biblioteki backendowej JS lub TS, stwórz serwer który bêdzie posiada³ 1
-endpoint o adresie ‘/update’, który bêdzie zapisywa³ aktualn¹ liczbê wierszy w arkuszu, któr¹ to
+Za pomocÄ… dowolnej biblioteki backendowej JS lub TS, stwÃ³rz serwer ktÃ³ry bÄ™dzie posiadaÅ‚ 1
+endpoint o adresie â€˜/updateâ€™, ktÃ³ry bÄ™dzie zapisywaÅ‚ aktualnÄ… liczbÄ™ wierszy w arkuszu, ktÃ³rÄ… to
 
-przeka¿e mu automat. Po wejœciu na stronê g³ówn¹ serwera `/`, serwer powinien zwracaæ
-zapisan¹ liczbê wierszy.
+przekaÅ¼e mu automat. Po wejÅ›ciu na stronÄ™ gÅ‚Ã³wnÄ… serwera `/`, serwer powinien zwracaÄ‡
+zapisanÄ… liczbÄ™ wierszy.
 
-Rozwi¹zanie:
+RozwiÄ…zanie:
 
-Jako ¿e aplikacja wymaga jedynie liczby rekordów w google sheets 
-zdecydowa³em nie u¿ywaæ bazy danych tylko zapisywaæ wartoœ w pliku json.
-Je¿eli zadanie wymaga³o by u¿ycia bazy, ze wzglêdu na ma³y rozmiar danych 
-u¿y³bym rozwi¹zanie SQL zamiast noSql.
+Jako Å¼e aplikacja wymaga jedynie liczby rekordÃ³w w google sheets 
+zdecydowaÅ‚em nie uÅ¼ywaÄ‡ bazy danych tylko zapisywaÄ‡ wartoÅ›Ä‡ w pliku json.
+JeÅ¼eli zadanie wymagaÅ‚o by uÅ¼ycia bazy, ze wzglÄ™du na maÅ‚y rozmiar, 
+oraz prymitywny typ danych uÅ¼yÅ‚bym rozwiÄ…zania SQL zamiast noSql.
 
-Do upublicznienia url aplikacji u¿y³e ngrok
+Do upublicznienia url aplikacji uÅ¼yÅ‚em ngrok
